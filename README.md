@@ -286,4 +286,3 @@ Views are zero-cost to maintain, always current, and require no pipeline orchest
 
 ---
 
-*Built as a portfolio demonstration of real-world data engineering patterns on Microsoft Fabric.*
